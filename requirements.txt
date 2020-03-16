@@ -5,3 +5,4 @@ requests>=2.18.4
 marshmallow==2.15.4
 webargs>=5.1.3
 httprunner>=1.5.13
+oss2>=0.1.3
